@@ -1,0 +1,10 @@
+/cookbooks/
+.vagrant
+Berksfile.lock
+
+########## Mac OS ##########
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
